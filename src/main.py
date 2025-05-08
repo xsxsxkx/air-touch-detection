@@ -1,9 +1,6 @@
 import cv2
 import mediapipe as mp
-import numpy as np
 import socket
-import pickle
-import struct
 import threading
 
 
